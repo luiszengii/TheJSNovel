@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Node modules
+node_modules/
+package-lock.json
+
+# Claude Code settings (contains sensitive API keys)
+.claude/settings.local.json
+
+# Test files
+test-character.md
+test-outline.md
+chapter-test-number-precision.md
+
+# Temporary folders
+古代权谋类Claude Skill/
+现代言情类Claude Skill/
+现实题材类 短篇小说 Claude Skill/
